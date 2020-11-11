@@ -14,15 +14,9 @@ namespace IntroduzioneThread
             Thread t2 = new Thread(new ThreadStart(tr1.Thread2));
             //Avvio thread
             t1.Start(); // Il metodo start equivale alla Fork
+            t1.Join();  //Il join ritiene che il processo t1 termini prima di  proseguire
             t2.Start();
-            try //Uccisione di un thread (attenzione nell'utilizzo)
-            {
-                t1.Abort();
-            }
-            catch
-            {
-                Console.WriteLine("Eccezione per l'uccisione di un thread");
-            }
+            
             for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Main {0}", i);

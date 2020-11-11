@@ -15,7 +15,15 @@ namespace IntroduzioneThread
             //Avvio thread
             t1.Start(); // Il metodo start equivale alla Fork
             t2.Start();
-            for(int i = 0; i < 100; i++)
+            try //Uccisione di un thread (attenzione nell'utilizzo)
+            {
+                t1.Abort();
+            }
+            catch
+            {
+                Console.WriteLine("Eccezione per l'uccisione di un thread");
+            }
+            for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Main {0}", i);
             }
@@ -26,14 +34,14 @@ namespace IntroduzioneThread
     {
         public void Thread1() // I thread sono metodi con void e nessun parametro
         {
-            for(int i = 0; i < 100; i++)
+            for(int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Thread1 {0}", i);
             }
         }
         public void Thread2()
         {
-            for (int i = 0; i < 100; i++)
+            for (int i = 0; i < 10; i++)
             {
                 Console.WriteLine("Thread2 {0}", i);
             }

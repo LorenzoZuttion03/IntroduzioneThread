@@ -1,0 +1,13 @@
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\bin\Debug\netcoreapp3.1\IntroduzioneThread.exe
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\bin\Debug\netcoreapp3.1\IntroduzioneThread.deps.json
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\bin\Debug\netcoreapp3.1\IntroduzioneThread.runtimeconfig.json
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\bin\Debug\netcoreapp3.1\IntroduzioneThread.runtimeconfig.dev.json
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\bin\Debug\netcoreapp3.1\IntroduzioneThread.dll
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\bin\Debug\netcoreapp3.1\IntroduzioneThread.pdb
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.csprojAssemblyReference.cache
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.AssemblyInfoInputs.cache
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.AssemblyInfo.cs
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.csproj.CoreCompileInputs.cache
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.dll
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.pdb
+C:\Users\lorenzo.zuttion\Documents\IntroduzioneThread\IntroduzioneThread\obj\Debug\netcoreapp3.1\IntroduzioneThread.genruntimeconfig.cache
